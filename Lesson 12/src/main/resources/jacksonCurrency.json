@@ -1,0 +1,310 @@
+[ {
+  "to" : "UAH",
+  "cc" : "AUD",
+  "rate" : 17.8157,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "CAD",
+  "rate" : 19.5353,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "CNY",
+  "rate" : 3.7613,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "HRK",
+  "rate" : 3.9032,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "CZK",
+  "rate" : 1.0965,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "DKK",
+  "rate" : 3.974,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "HKD",
+  "rate" : 3.4704,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "HUF",
+  "rate" : 0.084724,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "INR",
+  "rate" : 0.35519,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "IDR",
+  "rate" : 0.0018277,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "ILS",
+  "rate" : 7.6666,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "JPY",
+  "rate" : 0.24963,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "KZT",
+  "rate" : 0.065223,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "KRW",
+  "rate" : 0.021708,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "MXN",
+  "rate" : 1.2061,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "MDL",
+  "rate" : 1.5206,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "NZD",
+  "rate" : 16.6655,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "NOK",
+  "rate" : 2.7278,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "RUB",
+  "rate" : 0.38036,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "SAR",
+  "rate" : 7.1633,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "SGD",
+  "rate" : 18.9705,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "ZAR",
+  "rate" : 1.5446,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "SEK",
+  "rate" : 2.8066,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "CHF",
+  "rate" : 27.7295,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "EGP",
+  "rate" : 1.6986,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "GBP",
+  "rate" : 33.0028,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "USD",
+  "rate" : 26.9059,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "BYN",
+  "rate" : 11.1606,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "AZN",
+  "rate" : 15.7852,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "RON",
+  "rate" : 6.1179,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "TRY",
+  "rate" : 3.9459,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "XDR",
+  "rate" : 36.7626,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "BGN",
+  "rate" : 15.1506,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "EUR",
+  "rate" : 29.6234,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "PLN",
+  "rate" : 6.7044,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "DZD",
+  "rate" : 0.21003,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "BDT",
+  "rate" : 0.31735,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "AMD",
+  "rate" : 0.056249,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "IRR",
+  "rate" : 0.00064189,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "IQD",
+  "rate" : 0.022655,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "KGS",
+  "rate" : 0.34174,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "LBP",
+  "rate" : 0.017883,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "LYD",
+  "rate" : 19.0551,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "MYR",
+  "rate" : 6.2646,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "MAD",
+  "rate" : 2.7221,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "VND",
+  "rate" : 0.0011567,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "THB",
+  "rate" : 0.83249,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "AED",
+  "rate" : 7.3398,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "TND",
+  "rate" : 9.2895,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "UZS",
+  "rate" : 0.0026613,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "TWD",
+  "rate" : 0.90698,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "TMT",
+  "rate" : 7.7026,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "GHS",
+  "rate" : 4.6473,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "RSD",
+  "rate" : 0.24908,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "TJS",
+  "rate" : 2.6325,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "GEL",
+  "rate" : 8.4182,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "BRL",
+  "rate" : 4.9977,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "XAU",
+  "rate" : 46348.91,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "XAG",
+  "rate" : 467.09,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "XPT",
+  "rate" : 22435.48,
+  "exchangedate" : "29.05.2020"
+}, {
+  "to" : "UAH",
+  "cc" : "XPD",
+  "rate" : 52265.25,
+  "exchangedate" : "29.05.2020"
+} ]: "UAH",
+  "cc" : "XPD",
+  "rate" : 59221.79,
+  "exchangedate" : "21.04.2020"
+} ]
