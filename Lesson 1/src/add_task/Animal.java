@@ -3,7 +3,7 @@
 //        равна, то ищем по цене) -> цене - > весу -> породе.
 
 
-package add_task.interface_comparable;
+package add_task;
 
 public class Animal implements Comparable <Animal>{
     String breed;

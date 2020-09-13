@@ -2,7 +2,7 @@
 //        Дописать логику, чтобы метод compareTo() осуществил поиск по скорости(если же скорость у 2-х объектов
 //        равна, то ищем по цене) -> цене - > весу -> породе.
 
-package add_task.interface_comparable;
+package add_task;
 
 import java.util.Arrays;
 
